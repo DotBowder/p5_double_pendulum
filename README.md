@@ -1,5 +1,5 @@
 
-***Project by:*** <br>
+***Inspired by:*** <br>
 Daniel Shiffman <br>
 http://codingtra.in <br>
 http://patreon.com/codingtrain <br>
