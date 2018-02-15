@@ -6,6 +6,7 @@ http://patreon.com/codingtrain <br>
 
 Double Pendulum <br>
 https://youtu.be/uWzPe_S-RVE <br>
+https://github.com/CodingTrain/website/tree/master/CodingChallenges/CC_93_DoublePendulum_p5.js <br>
 
 ***Variation Authored by:*** <br>
 Daniel Bowder <br>
